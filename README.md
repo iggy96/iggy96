@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iggy96
-- 👀 I’m interested in building a clone of Elon 
-- 🌱 I’m currently learning more Python and Julia
+- 🌱 I’m currently learning more Python, Julia & R
 - 💞️ I’m in love with football or soccer
 - 📫 Reach me at the bird app
 
